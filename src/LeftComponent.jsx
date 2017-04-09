@@ -10,7 +10,8 @@ export default class LeftComponent extends Component {
     }
     render() {
         return (
-            <div className="app">
+            <div className="textLeft">
+              <h3>Left Panel</h3>
                 <ul>
                     {this.state.data.map((it) => {
                         return (

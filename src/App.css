@@ -2,11 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.textLeft {
+  text-align: left;
 }
-
 .App-header {
   background-color: #222;
   height: 150px;
